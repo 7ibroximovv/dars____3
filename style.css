@@ -1,0 +1,44 @@
+button{
+    width: 256px;
+    height: 36px;
+    background-color: #FC004A;
+    border-radius: 12px;
+    color: white;
+    border: none;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imjjon2{
+    width: 80%;
+    margin-left: 100px
+}
+
+a{
+    text-decoration: none;
+    color: #FC004A;
+}
+.vren{
+    width: 40px;
+    height: 40px;
+    margin-left: 140px;
+}
+div{
+   
+    width: 235px;
+    height: 391px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 6px -4px #0000001A;
+
+box-shadow: 0px 10px 15px -3px #0000001A;
+
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
